@@ -14,7 +14,7 @@
 ## Installation
 
 ```sh
-npm i -D github:@TaiBIF/eslint-base
+npm i -D github:TaiBIF/eslint-base
 ```
 
 ### Configure
