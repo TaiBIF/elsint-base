@@ -10,6 +10,7 @@ module.exports = {
   ],
   plugins: ['prettier'],
   rules: {
+    "comma-dangle": 0,
     'object-curly-spacing': 0,
     'no-console': 0,
     'global-require': 0,
