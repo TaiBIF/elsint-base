@@ -6,7 +6,6 @@ module.exports = {
     'prettier/flowtype',
     'prettier/react',
     'prettier/standard',
-    'loopback',
   ],
   plugins: ['prettier'],
   rules: {
